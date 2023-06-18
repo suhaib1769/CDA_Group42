@@ -1,0 +1,745 @@
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp45r3o5uu.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:31:31.067 (   0.033s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:31:31.068 (   0.034s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:31:31.070 (   0.035s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:31:31.081 (   0.046s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpqgnsgz75.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:33:19.594 (   0.031s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:33:19.596 (   0.031s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:33:19.596 (   0.032s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:33:19.604 (   0.040s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:33:27.564 (   7.999s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 15:33:29.330 (   9.766s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:33:29.331 (   9.766s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpjh9b9139.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpqgnsgz75.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:33:30.105 (   0.029s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:33:30.106 (   0.029s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:33:30.106 (   0.030s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:33:30.115 (   0.038s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:33:30.115 (   0.038s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 15:33:41.146 (  11.069s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:33:41.146 (  11.070s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpyja2yjxa.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:45:09.658 (   0.062s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:45:09.661 (   0.062s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:45:09.662 (   0.063s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:45:09.692 (   0.094s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:45:11.992 (   2.393s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 15:45:12.244 (   2.645s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:45:12.245 (   2.646s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpmoc9d_t3.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpyja2yjxa.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:45:12.437 (   0.033s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:45:12.439 (   0.033s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:45:12.439 (   0.034s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:45:12.450 (   0.044s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:45:12.450 (   0.045s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 15:45:14.910 (   2.505s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:45:14.912 (   2.506s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp9peslxa7.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:45:59.185 (   0.079s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:45:59.187 (   0.079s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:45:59.187 (   0.079s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:45:59.199 (   0.092s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:46:01.398 (   2.291s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 15:46:01.455 (   2.347s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:46:01.456 (   2.349s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpp1i8wlwv.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp9peslxa7.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:46:01.694 (   0.054s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:46:01.695 (   0.054s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:46:01.695 (   0.055s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:46:01.708 (   0.067s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:46:01.708 (   0.067s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 15:46:04.572 (   2.931s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:46:04.573 (   2.932s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpi0zr9uzg.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:55:13.537 (   0.058s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:55:13.539 (   0.058s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:55:13.539 (   0.059s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:55:13.558 (   0.078s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:55:15.848 (   2.367s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 15:55:16.152 (   2.672s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:55:16.153 (   2.673s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpgymo1g72.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpi0zr9uzg.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:55:16.341 (   0.039s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:55:16.342 (   0.039s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:55:16.342 (   0.039s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:55:16.351 (   0.048s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:55:16.351 (   0.048s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 15:55:18.722 (   2.419s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:55:18.723 (   2.420s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpi8wgbbfg.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:57:44.053 (   0.054s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:57:44.054 (   0.054s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:57:44.054 (   0.054s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:57:44.067 (   0.067s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:57:46.580 (   2.580s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 15:57:46.955 (   2.955s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:57:46.957 (   2.957s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpila9cs3h.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpi8wgbbfg.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 15:57:47.204 (   0.043s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 15:57:47.205 (   0.043s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 15:57:47.205 (   0.043s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 15:57:47.217 (   0.055s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 15:57:47.217 (   0.055s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 15:57:50.322 (   3.160s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 15:57:50.323 (   3.161s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpiutqb8sj.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:04:57.972 (   0.074s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:04:57.975 (   0.074s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:04:57.975 (   0.074s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:04:57.991 (   0.090s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:05:00.331 (   2.430s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:05:00.633 (   2.732s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:05:00.634 (   2.733s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpi_vanob9.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpiutqb8sj.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:05:00.839 (   0.042s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:05:00.841 (   0.042s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:05:00.841 (   0.042s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:05:00.858 (   0.059s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:05:00.858 (   0.059s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:05:03.886 (   3.087s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:05:03.887 (   3.088s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpdmc_j5p2.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:05:46.018 (   0.101s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:05:46.022 (   0.102s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:05:46.022 (   0.102s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:05:46.165 (   0.245s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:05:49.139 (   3.219s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:05:49.210 (   3.290s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:05:49.212 (   3.292s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp_kigjdqp.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpdmc_j5p2.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:05:49.555 (   0.101s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:05:49.557 (   0.101s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:05:49.558 (   0.101s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:05:49.575 (   0.119s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:05:49.575 (   0.119s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:05:53.140 (   3.684s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:05:53.141 (   3.685s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmprfom5438.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=5
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:07:53.890 (   0.131s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:07:53.894 (   0.132s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:07:53.895 (   0.132s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:07:53.942 (   0.180s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:07:58.673 (   4.911s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:07:58.763 (   5.001s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:07:58.765 (   5.002s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpzyx7uzff.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmprfom5438.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:07:59.118 (   0.094s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:07:59.122 (   0.095s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:07:59.122 (   0.095s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:07:59.138 (   0.111s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:07:59.138 (   0.111s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:08:03.865 (   4.838s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:08:03.866 (   4.839s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmphpjbx8cg.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:08:47.289 (   0.094s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:08:47.291 (   0.094s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:08:47.292 (   0.095s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:08:47.308 (   0.111s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:08:52.639 (   5.442s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:08:52.710 (   5.513s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:08:52.712 (   5.515s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp75_vp7cn.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmphpjbx8cg.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:08:53.089 (   0.085s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:08:53.092 (   0.086s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:08:53.092 (   0.086s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:08:53.110 (   0.104s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:08:53.111 (   0.105s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:08:58.230 (   5.223s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:08:58.231 (   5.224s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmph0ehzy2k.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:12:45.664 (   0.082s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:12:45.666 (   0.083s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:12:45.667 (   0.083s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:12:45.686 (   0.103s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:12:48.535 (   2.952s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:12:48.597 (   3.014s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:12:48.599 (   3.015s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmprbwg6h0f.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmph0ehzy2k.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:12:48.855 (   0.056s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:12:48.857 (   0.056s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:12:48.857 (   0.056s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:12:48.871 (   0.070s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:12:48.872 (   0.071s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:12:52.528 (   3.727s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:12:52.529 (   3.728s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp2vyutdzz.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:13:40.921 (   0.410s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:13:40.924 (   0.410s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:13:40.924 (   0.411s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:13:41.096 (   0.583s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:13:44.067 (   3.554s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:13:44.123 (   3.609s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:13:44.124 (   3.611s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpp6kizzc7.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp2vyutdzz.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:13:44.376 (   0.052s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:13:44.379 (   0.053s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:13:44.379 (   0.053s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:13:44.396 (   0.069s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:13:44.396 (   0.070s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:13:47.981 (   3.655s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:13:47.982 (   3.656s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpgragc618.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:15:18.055 (   0.062s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:15:18.058 (   0.063s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:15:18.059 (   0.063s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:15:18.076 (   0.080s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:15:20.464 (   2.468s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:15:20.508 (   2.512s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:15:20.509 (   2.513s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpitvgsmo1.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpgragc618.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:15:20.690 (   0.036s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:15:20.692 (   0.036s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:15:20.692 (   0.036s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:15:20.701 (   0.045s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:15:20.702 (   0.046s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:15:23.275 (   2.619s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:15:23.275 (   2.619s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpyyc_j6ix.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:17:18.789 (   0.059s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:17:18.791 (   0.059s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:17:18.792 (   0.059s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:17:18.808 (   0.075s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:17:21.455 (   2.722s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:17:21.498 (   2.766s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:17:21.499 (   2.767s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpfnhp7fvx.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpyyc_j6ix.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:17:21.674 (   0.031s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:17:21.676 (   0.032s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:17:21.676 (   0.032s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:17:21.689 (   0.045s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:17:21.689 (   0.045s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:17:24.444 (   2.800s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:17:24.445 (   2.801s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmphwi6dc44.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --printblue=1 --sinkson=1 --sinkcount=100
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:17:46.281 (   0.095s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:17:46.283 (   0.096s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:17:46.284 (   0.096s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:17:46.309 (   0.121s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:17:48.823 (   2.636s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:17:48.871 (   2.683s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:17:48.872 (   2.685s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpnm6sl_y9.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmphwi6dc44.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:17:49.080 (   0.041s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:17:49.082 (   0.041s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:17:49.082 (   0.041s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:17:49.095 (   0.055s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:17:49.095 (   0.055s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:17:51.982 (   2.941s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:17:51.983 (   2.942s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpxw46oczy.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:18:38.311 (   0.071s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:18:38.314 (   0.071s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:18:38.314 (   0.072s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:18:38.338 (   0.095s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:18:40.878 (   2.636s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:18:40.923 (   2.681s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:18:40.925 (   2.682s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp3wnuu74n.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpxw46oczy.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:18:41.138 (   0.036s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:18:41.140 (   0.036s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:18:41.140 (   0.037s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:18:41.151 (   0.048s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:18:41.152 (   0.048s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:18:44.037 (   2.934s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:18:44.038 (   2.935s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp2kgufis1.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:26:50.605 (   0.028s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:26:50.607 (   0.029s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:26:50.607 (   0.029s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:26:50.615 (   0.037s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:26:51.857 (   1.279s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:26:51.889 (   1.311s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:26:51.890 (   1.312s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpt2x6ddwu.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp2kgufis1.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:26:52.038 (   0.028s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:26:52.039 (   0.028s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:26:52.039 (   0.028s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:26:52.046 (   0.035s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:26:52.047 (   0.036s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:26:54.789 (   2.778s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:26:54.790 (   2.779s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp3mvuff20.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:27:38.545 (   0.064s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:27:38.547 (   0.064s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:27:38.548 (   0.065s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:27:38.567 (   0.083s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:27:42.051 (   3.568s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:27:42.303 (   3.819s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:27:42.303 (   3.820s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpqacraaex.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp3mvuff20.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:27:42.515 (   0.039s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:27:42.517 (   0.039s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:27:42.517 (   0.039s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:27:42.527 (   0.050s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:27:42.528 (   0.050s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:27:45.353 (   2.876s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:27:45.354 (   2.877s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp1bzwyx6o.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:29:01.945 (   0.045s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:29:01.947 (   0.045s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:29:01.947 (   0.046s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:29:01.959 (   0.058s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:33:09.406 ( 247.505s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp56fbb9mh.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:41:43.227 (   0.035s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:41:43.229 (   0.036s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:41:43.229 (   0.036s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:41:43.238 (   0.045s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:44:54.331 ( 191.137s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmplx53e267.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:52:33.253 (   0.052s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:52:33.255 (   0.052s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:52:33.255 (   0.053s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:52:33.267 (   0.065s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:52:53.015 (  19.812s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:53:07.076 (  33.874s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:53:07.078 (  33.876s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpc3llhwrn.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmplx53e267.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:53:08.067 (   0.055s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:53:08.069 (   0.055s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:53:08.069 (   0.055s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:53:08.082 (   0.069s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:53:08.082 (   0.069s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 16:53:47.650 (  39.637s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:53:47.652 (  39.639s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpupb6lr1x.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:58:04.781 (   0.039s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:58:04.783 (   0.040s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:58:04.783 (   0.040s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:58:04.793 (   0.050s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:58:53.401 (  48.657s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 16:59:51.530 ( 106.787s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 16:59:51.531 ( 106.788s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmphhf4n2s0.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpupb6lr1x.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=50 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 16:59:54.611 (   0.061s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 16:59:54.613 (   0.061s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 16:59:54.613 (   0.061s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 16:59:54.626 (   0.074s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 16:59:54.626 (   0.074s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 17:01:36.472 ( 101.920s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:01:36.473 ( 101.921s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpbjlzo6qr.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 17:03:35.891 (   0.035s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 17:03:35.892 (   0.035s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 17:03:35.892 (   0.035s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 17:03:35.903 (   0.046s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 17:04:25.031 (  49.174s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 17:07:55.421 ( 259.564s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:07:55.422 ( 259.565s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp2vkecsuv.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpbjlzo6qr.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=50 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 17:07:57.257 (   0.031s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 17:07:57.258 (   0.031s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 17:07:57.258 (   0.031s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 17:07:57.267 (   0.039s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 17:07:57.267 (   0.040s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 17:09:11.795 (  74.567s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:09:11.795 (  74.568s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpeady92e9.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=100 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 17:18:25.672 (   0.039s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 17:18:25.674 (   0.039s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 17:18:25.674 (   0.039s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 17:18:25.683 (   0.048s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 17:18:44.677 (  19.042s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 17:19:26.762 (  61.128s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:19:26.763 (  61.128s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpbcr0uxmb.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpeady92e9.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=50 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 17:19:27.600 (   0.038s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 17:19:27.602 (   0.038s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 17:19:27.602 (   0.038s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 17:19:27.611 (   0.047s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 17:19:27.611 (   0.047s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 17:19:59.023 (  31.459s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:19:59.024 (  31.460s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpjemx8iu1.csv --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=50 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 17:49:54.053 (   0.037s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 17:49:54.054 (   0.037s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 17:49:54.054 (   0.037s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 17:49:54.070 (   0.053s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 17:50:06.230 (  12.213s) [main thread     ]               main.cpp:124   INFO| Greedy mode selected, starting run
+2023-06-18 17:50:32.879 (  38.861s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:50:32.879 (  38.862s) [main thread     ]             loguru.cpp:538   INFO| atexit
+
+
+
+
+
+arguments: flexfringe-x64-windows.exe C:\\Users\\ottev\\AppData\\Local\\Temp\\tmp2b4m1e30.csv --mode=predict --aptafile=C:\\Users\\ottev\\AppData\\Local\\Temp\\tmpjemx8iu1.csv.ff.final.json --heuristic_name=alergia --data_name=alergia_data --slidingwindow=1 --swsize=10 --sinkson=1 --sinkcount=50 --printblue=1
+Current dir: C:\Users\ottev\TU Delft\Year4\Quarter4\CDA\CDA_Group42\Lab_3
+File verbosity level: 9
+date       time         ( uptime  ) [ thread name/id ]                   file:line     v| 
+2023-06-18 17:50:33.522 (   0.041s) [main thread     ]             loguru.cpp:841   INFO| Logging to 'flexfringe.log', mode: 'a', verbosity: 9
+2023-06-18 17:50:33.524 (   0.042s) [main thread     ]               main.cpp:379   INFO| Starting flexfringe run
+2023-06-18 17:50:33.524 (   0.042s) [main thread     ]               main.cpp:70    INFO| Using heuristic alergia
+2023-06-18 17:50:33.531 (   0.049s) [main thread     ]               apta.cpp:34    INFO| Creating APTA data structure
+2023-06-18 17:50:33.531 (   0.049s) [main thread     ]               main.cpp:185   INFO| Predict mode selected, starting run
+2023-06-18 17:50:51.935 (  18.453s) [main thread     ]               main.cpp:383   INFO| Ending flexfringe run normally
+2023-06-18 17:50:51.935 (  18.453s) [main thread     ]             loguru.cpp:538   INFO| atexit
